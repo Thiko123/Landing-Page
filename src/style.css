@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+h1,h3, h2,p{
+    color: white;
+}
+header{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+
+}
+img{
+    size: 40px;
+}
+p{
+    text-align: center;
+}
+.search-form-input{
+    background-color: #f9f7fe;
+    border: none;
+    border-radius: 6px;
+    width: 30%;
+    padding: 15px 20px;
+    font-size: 16px;
+    margin: 5px 30px 5px 350px;
+}
+.search-form-button{
+    border: none;
+    border-radius: 6px;
+    padding: 15px 20px;
+    font-size: 16px;
+    color: white;
+    background: palevioletred;
+    margin-left: 5px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+}
