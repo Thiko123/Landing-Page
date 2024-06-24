@@ -4,12 +4,7 @@ body{
 h1,h3, h2,p{
     color: white;
 }
-header{
-    color: white;
-    text-align: center;
-    font-size: 40px;
 
-}
 img{
     size: 40px;
 }
@@ -36,8 +31,22 @@ p{
 }
 h1{
     text-align: center;
-    font-size: 30px;
+    font-size: 90px;
 }
 h2{
     text-align: center;
 }
+.paid{
+    color: green;
+}
+img {
+    width: 200px;
+    height: 200px;
+  }
+  img {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+  }
+  
+  
