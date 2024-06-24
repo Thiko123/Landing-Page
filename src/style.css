@@ -36,17 +36,13 @@ h1{
 h2{
     text-align: center;
 }
+h3{
+    font-size: 15px;
+}
 .paid{
     color: green;
 }
-img {
-    width: 200px;
-    height: 200px;
-  }
-  img {
-    position: absolute;
-    left: 50px;
-    top: 50px;
-  }
-  
+img{
+    size: 300px;
+}
   
